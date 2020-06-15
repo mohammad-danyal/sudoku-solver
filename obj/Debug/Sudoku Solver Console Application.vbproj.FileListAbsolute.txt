@@ -1,0 +1,11 @@
+D:\School\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver Console Application.vbprojAssemblyReference.cache
+D:\School\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku_Solver_MD_Console_Application.Resources.resources
+D:\School\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver Console Application.vbproj.GenerateResource.cache
+D:\School\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver Console Application.vbproj.CoreCompileInputs.cache
+D:\School\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.exe
+D:\School\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.xml
+D:\School\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.pdb
+D:\School\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe.config
+D:\School\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe
+D:\School\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.pdb
+D:\School\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.xml

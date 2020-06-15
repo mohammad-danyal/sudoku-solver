@@ -1,0 +1,170 @@
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbprojResolveAssemblyReference.cache
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\obj\Debug\Sudoku_Solver_MD_Console_Application.Resources.resources
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.GenerateResource.Cache
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.CoreCompileInputs.cache
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe.config
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.pdb
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.xml
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.exe
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.xml
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.pdb
+D:\School\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe.config
+D:\School\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.exe
+D:\School\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.xml
+D:\School\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.pdb
+D:\School\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe
+D:\School\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.pdb
+D:\School\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.xml
+D:\School\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbprojResolveAssemblyReference.cache
+D:\School\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\obj\Debug\Sudoku_Solver_MD_Console_Application.Resources.resources
+D:\School\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.GenerateResource.Cache
+G:\School\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe.config
+G:\School\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe
+G:\School\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.pdb
+G:\School\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.xml
+G:\School\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbprojResolveAssemblyReference.cache
+G:\School\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\obj\Debug\Sudoku_Solver_MD_Console_Application.Resources.resources
+G:\School\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.GenerateResource.Cache
+G:\School\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.CoreCompileInputs.cache
+G:\School\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.exe
+G:\School\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.xml
+G:\School\Project\Sudoku Solver MD Console Application\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.pdb
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe.config
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.pdb
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.xml
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbprojResolveAssemblyReference.cache
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\obj\Debug\Sudoku_Solver_MD_Console_Application.Resources.resources
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.GenerateResource.Cache
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.CoreCompileInputs.cache
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.exe
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.xml
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.pdb
+D:\School\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe.config
+D:\School\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.exe
+D:\School\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.xml
+D:\School\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.pdb
+D:\School\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe
+D:\School\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.pdb
+D:\School\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.xml
+D:\School\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbprojResolveAssemblyReference.cache
+D:\School\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\obj\Debug\Sudoku_Solver_MD_Console_Application.Resources.resources
+D:\School\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.GenerateResource.Cache
+G:\School\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbprojResolveAssemblyReference.cache
+G:\School\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\obj\Debug\Sudoku_Solver_MD_Console_Application.Resources.resources
+G:\School\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.GenerateResource.Cache
+G:\School\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.CoreCompileInputs.cache
+G:\School\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.exe
+G:\School\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.xml
+G:\School\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.pdb
+G:\School\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe.config
+G:\School\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe
+G:\School\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.pdb
+G:\School\Project\Sudoku Solver MD Console Application (Last Working)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.xml
+G:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe.config
+G:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe
+G:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.pdb
+G:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.xml
+G:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbprojResolveAssemblyReference.cache
+G:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku_Solver_MD_Console_Application.Resources.resources
+G:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.GenerateResource.Cache
+G:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.CoreCompileInputs.cache
+G:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.exe
+G:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.xml
+G:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.pdb
+D:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe.config
+D:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.exe
+D:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.xml
+D:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.pdb
+D:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbprojResolveAssemblyReference.cache
+D:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku_Solver_MD_Console_Application.Resources.resources
+D:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.GenerateResource.Cache
+D:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe
+D:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.pdb
+D:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.xml
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe.config
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.pdb
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.xml
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbprojResolveAssemblyReference.cache
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku_Solver_MD_Console_Application.Resources.resources
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.GenerateResource.cache
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.CoreCompileInputs.cache
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.exe
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.xml
+C:\Users\Danyal\Desktop\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.pdb
+E:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe.config
+E:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.exe
+E:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.xml
+E:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.pdb
+E:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe
+E:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.pdb
+E:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.xml
+E:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbprojResolveAssemblyReference.cache
+E:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku_Solver_MD_Console_Application.Resources.resources
+E:\School\Project\Sudoku Solver MD Console Application (Structure added)\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.GenerateResource.Cache
+C:\Users\Danyal\Desktop\Final Program\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe.config
+C:\Users\Danyal\Desktop\Final Program\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe
+C:\Users\Danyal\Desktop\Final Program\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.pdb
+C:\Users\Danyal\Desktop\Final Program\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.xml
+C:\Users\Danyal\Desktop\Final Program\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbprojResolveAssemblyReference.cache
+C:\Users\Danyal\Desktop\Final Program\Sudoku Solver MD Console Application\obj\Debug\Sudoku_Solver_MD_Console_Application.Resources.resources
+C:\Users\Danyal\Desktop\Final Program\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.GenerateResource.cache
+C:\Users\Danyal\Desktop\Final Program\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.CoreCompileInputs.cache
+C:\Users\Danyal\Desktop\Final Program\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.exe
+C:\Users\Danyal\Desktop\Final Program\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.xml
+C:\Users\Danyal\Desktop\Final Program\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.pdb
+C:\Users\Danyal\Desktop\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe.config
+C:\Users\Danyal\Desktop\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe
+C:\Users\Danyal\Desktop\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.pdb
+C:\Users\Danyal\Desktop\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.xml
+C:\Users\Danyal\Desktop\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbprojResolveAssemblyReference.cache
+C:\Users\Danyal\Desktop\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku_Solver_MD_Console_Application.Resources.resources
+C:\Users\Danyal\Desktop\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.GenerateResource.cache
+C:\Users\Danyal\Desktop\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.CoreCompileInputs.cache
+C:\Users\Danyal\Desktop\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.exe
+C:\Users\Danyal\Desktop\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.xml
+C:\Users\Danyal\Desktop\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.pdb
+D:\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe.config
+D:\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.exe
+D:\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.xml
+D:\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.pdb
+D:\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe
+D:\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.pdb
+D:\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.xml
+D:\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbprojResolveAssemblyReference.cache
+D:\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku_Solver_MD_Console_Application.Resources.resources
+D:\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.GenerateResource.Cache
+E:\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe.config
+E:\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.exe
+E:\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.xml
+E:\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.pdb
+E:\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe
+E:\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.pdb
+E:\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.xml
+E:\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbprojResolveAssemblyReference.cache
+E:\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku_Solver_MD_Console_Application.Resources.resources
+E:\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.GenerateResource.Cache
+C:\Users\Danyal\Desktop\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe.config
+C:\Users\Danyal\Desktop\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe
+C:\Users\Danyal\Desktop\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.pdb
+C:\Users\Danyal\Desktop\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.xml
+C:\Users\Danyal\Desktop\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbprojResolveAssemblyReference.cache
+C:\Users\Danyal\Desktop\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku_Solver_MD_Console_Application.Resources.resources
+C:\Users\Danyal\Desktop\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.GenerateResource.cache
+C:\Users\Danyal\Desktop\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.CoreCompileInputs.cache
+C:\Users\Danyal\Desktop\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.exe
+C:\Users\Danyal\Desktop\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.xml
+C:\Users\Danyal\Desktop\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.pdb
+D:\School\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe.config
+D:\School\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.exe
+D:\School\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.pdb
+D:\School\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\bin\Debug\Sudoku Solver MD Console Application.xml
+D:\School\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbprojAssemblyReference.cache
+D:\School\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku_Solver_MD_Console_Application.Resources.resources
+D:\School\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.GenerateResource.cache
+D:\School\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.vbproj.CoreCompileInputs.cache
+D:\School\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.exe
+D:\School\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.xml
+D:\School\Final Project Tings\Final Program - Copy\Sudoku Solver MD Console Application\obj\Debug\Sudoku Solver MD Console Application.pdb
